@@ -1,6 +1,7 @@
 ## October 27, 2016
-- [Real time SLAM by the Serious Computer Vision Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+- [Real time SLAM from the Serious Computer Vision Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 - [Notes on how to summarize your learning after having taken a course](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/)
+- [Obama's AI report (Sept 2016)](https://www.whitehouse.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence)
 
 ## October 26, 2016
 - [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.c4hsajazp)
@@ -14,4 +15,4 @@
 - [Visual Genome](https://visualgenome.org/)
 
 ## October 24, 2016
-- [ECCV informal trends & proceedings](http://zoyathinks.blogspot.ca/2016/10/eccv-in-theatrical-setting.html)
+- [ECCV 2016 informal trends & proceedings](http://zoyathinks.blogspot.ca/2016/10/eccv-in-theatrical-setting.html)
