@@ -1,5 +1,11 @@
 ## October 27, 2016
-- [Real time SLAM by the Serious Computer zvision Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+- [Real time SLAM by the Serious Computer Vision Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+
+## October 26, 2016
+- [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.c4hsajazp)
+- [Deconvolution and Checkerboard artifacts](http://distill.pub/2016/deconv-checkerboard/)
+- [Differentiable neural computers from Deepmind](https://deepmind.com/blog/differentiable-neural-computers/)
+- [Video on doing a PhD in Computer Vision](https://www.youtube.com/watch?v=M17oGxh3Ny8)
 
 ## October 25, 2016
 - [Edward Library](http://edwardlib.org/tutorials/)
