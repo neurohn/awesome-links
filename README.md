@@ -1,3 +1,6 @@
+## October 28, 2016
+- [NeuroSLAM](https://arxiv.org/pdf/1609.09059.pdf?utm_content=buffer4c56b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ## October 27, 2016
 - [Real time SLAM from the Serious Computer Vision Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 - [Notes on how to summarize your learning after having taken a course](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/)
