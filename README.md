@@ -1,3 +1,6 @@
+## October 29, 2016
+- [Nervana Engine - ASIC circuit (hardware) optimized for deep learning](https://www.nervanasys.com/technology/engine/)
+
 ## October 28, 2016
 - [NeuroSLAM](https://arxiv.org/pdf/1609.09059.pdf?utm_content=buffer4c56b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
