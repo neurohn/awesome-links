@@ -2,6 +2,7 @@
 - [November'16 Edition of CV News](http://www.rsipvision.com/ComputerVisionNews-2016November/)
 - [Today’s Artificial Intelligence Does Not Justify Basic Income](https://www.technologyreview.com/s/602747/todays-artificial-intelligence-does-not-justify-basic-income/)
 - [Nvidia's webpage on Deep Learning](http://www.nvidia.com/object/deep-learning.html)
+- [Basics of Anaconda + Docker](https://www.continuum.io/blog/developer-blog/anaconda-and-docker-better-together-reproducible-data-science)
 
 ## October 29, 2016
 - [Nervana Engine - ASIC circuit (hardware) optimized for deep learning](https://www.nervanasys.com/technology/engine/)
