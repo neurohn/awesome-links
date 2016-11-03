@@ -1,3 +1,6 @@
+## November 2, 2016
+- [Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning](https://medium.com/artists-and-machine-intelligence/selection-of-resources-to-learn-artificial-intelligence-machine-learning-statistical-inference-23bc56ba655#.jspsxoae6)
+
 ## November 1, 2016
 - [November'16 Edition of CV News](http://www.rsipvision.com/ComputerVisionNews-2016November/)
 - [Today’s Artificial Intelligence Does Not Justify Basic Income](https://www.technologyreview.com/s/602747/todays-artificial-intelligence-does-not-justify-basic-income/)
