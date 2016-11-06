@@ -1,3 +1,7 @@
+## November 5, 2016
+- [Bayesian Machine Learning](http://fastml.com/bayesian-machine-learning/)
+- [What is Probabilistic Programming](http://www.pl-enthusiast.net/2014/09/08/probabilistic-programming/)
+
 ## November 2, 2016
 - [Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning](https://medium.com/artists-and-machine-intelligence/selection-of-resources-to-learn-artificial-intelligence-machine-learning-statistical-inference-23bc56ba655#.jspsxoae6)
 
