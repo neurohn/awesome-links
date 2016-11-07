@@ -1,3 +1,6 @@
+## November 6, 2016
+- [MCMC Sampling for Dummies with code in PyMC3, Theano](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+
 ## November 5, 2016
 - [Bayesian Machine Learning](http://fastml.com/bayesian-machine-learning/)
 - [What is Probabilistic Programming](http://www.pl-enthusiast.net/2014/09/08/probabilistic-programming/)
