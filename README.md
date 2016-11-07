@@ -1,3 +1,6 @@
+## November 7, 2016
+- [What is a Bioinformatician by Jacob Schreber from UW (Great real-world example on HMM's from Gossip Girl)](http://homes.cs.washington.edu/~jmschr/lectures/bioinformatics.html)
+
 ## November 6, 2016
 - [MCMC Sampling for Dummies with code in PyMC3, Theano](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 
