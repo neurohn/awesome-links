@@ -1,3 +1,6 @@
+## November 8, 2016
+- [Deep Markov Models from David Sontag, NYU](https://arxiv.org/abs/1609.09869)
+
 ## November 7, 2016
 - [What is a Bioinformatician by Jacob Schreber from UW (Great real-world example on HMM's from Gossip Girl)](http://homes.cs.washington.edu/~jmschr/lectures/bioinformatics.html)
 - [Foundations of Algorithmic Bias](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/)
