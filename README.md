@@ -1,3 +1,6 @@
+## November 11, 2016
+-[Deep Neural Decision Forests by Antonio Criminisi. Marr Prize 2015](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ICCV15_DeepNDF_main.pdf). [Video](https://www.youtube.com/watch?v=XQsHPuXKmO4)
+
 ## November 8, 2016
 - [Deep Markov Models from David Sontag, NYU](https://arxiv.org/abs/1609.09869)
 
