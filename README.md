@@ -1,5 +1,8 @@
+## November 15, 2016
+- [A reading list on Bayesian methods](http://cocosci.berkeley.edu/tom/bayes.html)
+
 ## November 11, 2016
--[Deep Neural Decision Forests by Antonio Criminisi. Marr Prize 2015](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ICCV15_DeepNDF_main.pdf). [Video](https://www.youtube.com/watch?v=XQsHPuXKmO4)
+- [Deep Neural Decision Forests by Antonio Criminisi. Marr Prize 2015](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ICCV15_DeepNDF_main.pdf). [Video](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 
 ## November 10, 2016
 - [Causual Inference for Observational Studies. ICML 2016 tutorial](http://www.cs.nyu.edu/~shalit/tutorial.html)
